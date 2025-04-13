@@ -59,6 +59,15 @@ This thesis was not only a technical exploration but also a personal one. Writin
 It became a bridge between isolation and creativity, driven by a passion for environmental robotics.
 
 ---
+### 🖼️ Final Assembly – Scooping Mechanism with Custom Rollers
+![image](https://github.com/user-attachments/assets/78d6b21a-697d-4c51-882e-e6134ce33bd7)
+
+
+### 💻 Control System on Breadboard – Arduino + Motor Driver
+![image](https://github.com/user-attachments/assets/23557630-c65a-4b10-924d-3d02bc330648)
+
+### 🔌 Integrated Build – Bluetooth, Motor Driver, and Power Supply
+![image](https://github.com/user-attachments/assets/278dc6c6-cb5e-485a-994a-0a389cce90f7)
 
 ## 📄 Final Document
 
@@ -81,6 +90,3 @@ Mechatronics Engineer | Passionate about environmental robotics and human-center
 
 
 
-![image](https://github.com/user-attachments/assets/78d6b21a-697d-4c51-882e-e6134ce33bd7)
-![image](https://github.com/user-attachments/assets/23557630-c65a-4b10-924d-3d02bc330648)
-![image](https://github.com/user-attachments/assets/278dc6c6-cb5e-485a-994a-0a389cce90f7)
