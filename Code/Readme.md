@@ -67,5 +67,4 @@ This code is provided for educational and prototype use only.
 
 **Diego Méndez Carter**  
 Mechatronics Engineer | Robotics Developer  
-🔗 [GitHub](https://github.com/deimencart)
 This section is to describing the code for the concept. 
