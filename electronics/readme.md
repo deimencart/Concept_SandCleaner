@@ -17,7 +17,7 @@ This section details the electronics used in the beach cleaner robot prototype a
 |------------------------|---------------------------------------------|
 | **Arduino Nano**       | Main microcontroller for controlling the motors |
 | **Bluetooth Module (HC-05)** | Enables wireless communication via mobile app |
-| **L298N Motor Driver** | Drives two DC motors with forward/reverse control |
+| **DRV8833 Motor Driver** | Drives two DC motors with forward/reverse control |
 | **2x DC Gear Motors**  | Provides motion for the robot’s wheels      |
 | **2x 18650 Li-ion Batteries** | Power supply for motors and logic         |
 | **Slide Switch** (optional) | Turns system on/off manually                |
