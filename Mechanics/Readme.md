@@ -22,7 +22,7 @@ This drawing represents the final prototype's top-view layout, showing:
 
 ## 💬 Design Highlights
 
-- 🛞 Four-wheel structure for improved terrain mobility  
+- 🛞 Helicoidal-wheel structure for improved terrain mobility  
 - ♻️ Passive roller-based collection mechanism  
 - 🧩 Modular design for electronics and sensor mounting  
 - 🧰 Designed in **Fusion 360** using parametric modeling
@@ -42,7 +42,6 @@ This drawing represents the final prototype's top-view layout, showing:
 
 **Diego Méndez Carter**  
 Mechatronics Engineer | Robotics Designer  
-🔗 [GitHub](https://github.com/deimencart)
 
 ---
 
