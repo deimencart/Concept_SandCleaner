@@ -44,4 +44,3 @@ This section details the electronics used in the beach cleaner robot prototype a
 
 **Diego Méndez Carter**  
 Mechatronics Engineer | Robotics Developer  
-🔗 [GitHub](https://github.com/deimencart)
