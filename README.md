@@ -59,6 +59,12 @@ This thesis was not only a technical exploration but also a personal one. Writin
 It became a bridge between isolation and creativity, driven by a passion for environmental robotics.
 
 ---
+### 🤖 Mobile Rover Physical Prototype (Beach Cleaner)
+![Pink Prototype Rover](media/pink_prototype_rover.jpg)
+
+### 🛠️ Hardware & Chassis Prototype Builds
+![Chassis Prototype 1](media/chassis_prototype_build_1.jpg)
+
 ### 🖼️ Final Assembly – Scooping Mechanism with Custom Rollers
 ![image](https://github.com/user-attachments/assets/78d6b21a-697d-4c51-882e-e6134ce33bd7)
 
