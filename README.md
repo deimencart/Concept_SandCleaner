@@ -1,98 +1,60 @@
 ![image](https://github.com/user-attachments/assets/495d0250-1170-423f-b3a3-6ebfa0fa91f5)
-# 🏖️ Conceptual Design of a Beach Waste Collection System
+# 🌊 Conceptual Design of a Beach Waste Collection System
 
-**Author:** Diego Méndez Carter  
-**Bachelor’s Thesis – Mechatronics Engineering**  
-**Universidad Nacional Autónoma de México (UNAM) – Faculty of Engineering**  
+**Bachelor’s Thesis — Mechatronics Engineering**  
+**Universidad Nacional Autónoma de México (UNAM) — Faculty of Engineering**  
 **Advisor:** Dr. Alejandro Cuauhtémoc Ramírez Reivich  
-📅 Ciudad Universitaria, 2024
+📍 Ciudad Universitaria, 2024
 
 ---
 
-## 📘 Description
+## 📌 Description
 
-This repository contains documentation, sketches, analysis, and supporting files related to my undergraduate thesis: the **conceptual design of a robotic beach-cleaning machine**.  
-The project proposes a solution to the growing issue of waste pollution on coastal areas, focusing on:
+This repository contains documentation, CAD models, embedded software, and test media related to the undergraduate thesis: the **conceptual design of a robotic beach-cleaning machine**.  
+The project proposes a solution to the growing issue of waste pollution on coastal granular areas, focusing on:
 
-- The conceptualization of an autonomous system
-- Mobility design over granular terrain (sand)
-- Mechanisms for effective waste collection
-- Visual iterations and functional system modeling
-
----
-
-## 🌍 Background
-
-This project was developed during the COVID-19 pandemic with limited access to labs or prototyping facilities.  
-Working fully remotely, I explored and applied knowledge in design methodology, robotics, and system architecture using:
-
-- ✏️ Hand sketches and conceptual CAD
-- 🤖 Robotic mobility principles over uneven terrain
-- 💡 Design Thinking as a creative framework
+- Conceptualization of a non-autonomous, teleoperated mechatronic prototype
+- Mobility design over granular terrain (sand) using **helical Archimedes screw-drive pontoons**
+- Effective waste collection via front-mounted flexible rake sifters and gathering mechanisms
+- Parametric 3D CAD modeling, 3D-printed rapid fabrication, and embedded power/actuation testing
 
 ---
 
-## 🧠 Project Objectives
+## 🌪️ Archimedes Screw-Drive Physical Prototype & Test Run
 
-### General Objective:
-> To develop the conceptual design of an autonomous beach-cleaning system, integrating mobility, collection, and robust structure for coastal terrain.
+![Beach Cleaner Archimedes Screw Test Run](media/beach_cleaner_run.gif)
 
-### Specific Objectives:
-- Develop visual design iterations and sketches
-- Build functional block diagrams to explain system operation
-- Create a design proof of concept through sketches and simulations
+The physical proof-of-concept integrates dual counter-rotating Archimedes screw pontoons for holonomic/skid propulsion across loose sand and granular ground, an integrated front rake sifter, and an onboard Arduino Nano microcontroller with wireless Bluetooth teleoperation.
 
----
+| Front Lab Assembly (Keysight DC Power Analyzer) | Granular Sand & Outdoor Terrain Testing |
+|:---:|:---:|
+| ![Front Lab Assembly](media/beach_cleaner_front_lab.jpg) | ![Outdoor Terrain](media/beach_cleaner_outdoor_terrain.jpg) |
 
-## 🖼️ Outcomes
-
-Although the project focused on conceptual development, it included:
-- Several mobility design iterations (skid, helical screws, tracks)
-- Collection systems such as push blades and grabber arms
-- Terrain condition analysis and component requirement breakdown
+| Sifter Rake Comb Detail | Embedded Control Deck (Arduino Nano + BT) |
+|:---:|:---:|
+| ![Sifter Detail](media/beach_cleaner_sifter_detail.jpg) | ![Control Deck](media/beach_cleaner_electronics_deck.jpg) |
 
 ---
 
-## ✍️ Personal Reflection
+## 🔬 Early Mobility & Chassis Iterations
 
-This thesis was not only a technical exploration but also a personal one. Writing it in the first person was intentional — highlighting the role of the designer as an active thinker and agent in the process.  
-It became a bridge between isolation and creativity, driven by a passion for environmental robotics.
-
----
-### 🤖 Mobile Rover Physical Prototype (Beach Cleaner)
+### Mobile Rover Physical Prototype (Beach Cleaner)
 ![Pink Prototype Rover](media/pink_prototype_rover.jpg)
 
-### 🛠️ Hardware & Chassis Prototype Builds
+### Hardware & Chassis Prototype Builds
 ![Chassis Prototype 1](media/chassis_prototype_build_1.jpg)
 
-### 🖼️ Final Assembly – Scooping Mechanism with Custom Rollers
+### Final Assembly — Scooping Mechanism with Custom Rollers
 ![image](https://github.com/user-attachments/assets/78d6b21a-697d-4c51-882e-e6134ce33bd7)
 
+---
 
-### 💻 Control System on Breadboard – Arduino + Motor Driver
-![image](https://github.com/user-attachments/assets/23557630-c65a-4b10-924d-3d02bc330648)
+## 📑 Final Thesis Document
 
-### 🔌 Integrated Build – Bluetooth, Motor Driver, and Power Supply
-![image](https://github.com/user-attachments/assets/278dc6c6-cb5e-485a-994a-0a389cce90f7)
-
-## 📄 Final Document
-
-📎 [Download Full Thesis (PDF)](http://132.248.9.195/ptd2024/oct_dic/0863947/Index.html)
+📄 [Download Full Thesis (PDF)](http://132.248.9.195/ptd2024/oct_dic/0863947/Index.html)
 
 ---
 
 ## 📜 License
 
 This repository is shared for educational and documentation purposes. All materials are original work by the author unless stated otherwise.
-
----
-
-## 👤 About the Author
-
-**Diego Méndez Carter**  
-Mechatronics Engineer | Passionate about environmental robotics and human-centered design  
-
-
-
-
-
